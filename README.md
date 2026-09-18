@@ -201,8 +201,3 @@ The repository intentionally generates these values at runtime rather than hard-
 - Matplotlib
 - Seaborn
 
-## 👨‍💻 Author
-
-**Lucky Kashyap**  
-Computer Science and Information Technology  
-KIET Group of Institutions
